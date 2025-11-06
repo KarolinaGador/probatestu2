@@ -33,6 +33,16 @@
     }
 }
 
+.tyt { text-align: center;
+    font-size: 50px;
+}
+.naz {
+background-color: lightsalmon;
+resize: none;
+
+}
+.przyc {
+background-color: chartreuse;}
 .aut{
 text-align: center;
 }
