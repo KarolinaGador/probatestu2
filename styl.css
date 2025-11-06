@@ -43,3 +43,11 @@ resize: none;
 }
 .przyc {
 background-color: chartreuse;}
+.aut{
+text-align: center;
+}
+.lista {
+border: 5px solid black;
+font-weight: bold;
+width: 10%;
+}
