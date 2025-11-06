@@ -32,3 +32,12 @@
         width: 100%;
     }
 }
+
+.aut{
+text-align: center;
+}
+.lista {
+border: 5px solid black;
+font-weight: bold;
+width: 10%;
+}
