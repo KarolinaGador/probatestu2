@@ -51,3 +51,8 @@ border: 5px solid black;
 font-weight: bold;
 width: 10%;
 }
+
+
+.home a {
+    margin:0px
+}
